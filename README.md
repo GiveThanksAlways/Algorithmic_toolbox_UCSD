@@ -1,2 +1,3 @@
-# data-structures-and-algorithms-UCSD
-Coursera course
+# Algorithmic Toolbox
+
+Coursera course offered by UCSD
